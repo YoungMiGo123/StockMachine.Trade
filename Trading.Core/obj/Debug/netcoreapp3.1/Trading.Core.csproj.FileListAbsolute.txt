@@ -1,0 +1,9 @@
+C:\Users\marti\source\repos\StockMachine.Trade\Trading.Core\bin\Debug\netcoreapp3.1\Trading.Core.deps.json
+C:\Users\marti\source\repos\StockMachine.Trade\Trading.Core\bin\Debug\netcoreapp3.1\Trading.Core.dll
+C:\Users\marti\source\repos\StockMachine.Trade\Trading.Core\bin\Debug\netcoreapp3.1\Trading.Core.pdb
+C:\Users\marti\source\repos\StockMachine.Trade\Trading.Core\obj\Debug\netcoreapp3.1\Trading.Core.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\StockMachine.Trade\Trading.Core\obj\Debug\netcoreapp3.1\Trading.Core.AssemblyInfo.cs
+C:\Users\marti\source\repos\StockMachine.Trade\Trading.Core\obj\Debug\netcoreapp3.1\Trading.Core.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\StockMachine.Trade\Trading.Core\obj\Debug\netcoreapp3.1\Trading.Core.dll
+C:\Users\marti\source\repos\StockMachine.Trade\Trading.Core\obj\Debug\netcoreapp3.1\Trading.Core.pdb
+C:\Users\marti\source\repos\StockMachine.Trade\Trading.Core\obj\Debug\netcoreapp3.1\Trading.Core.csprojAssemblyReference.cache
